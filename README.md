@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faiza-tech" alt="faiza-tech" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce App**
+- 🔭 I’m currently working on **Food App using API**
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://enchanting-centaur-d1fc31.netlify.app](https://enchanting-centaur-d1fc31.netlify.app)
 
